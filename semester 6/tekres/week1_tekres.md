@@ -10,7 +10,7 @@
     - free gas production caused by gas cap expansion
   - water coning
     - water production caused by a **riisng water oil contact** from water influx
-    
+
 - kondisi water coning:
   - tekanan sumur rendah -> tekanan drawdown tinggi
   - sumur yg terlalu dekat dengan WOC
@@ -31,3 +31,18 @@
   - membiarkan produksi air
     - selama produksi minyak ekonomis, produksi air dibiarkan
     - metode **Kuo dan DesBrisay** : peramalan produksi air setelah water breaktrough
+    
+## kerucut air
+- produksi terjadi jika terdapat beda tekanan \Delta P = (p rata2  - p_well) -> batas minyak-air delta P > bergerak ke arah sumur (perforasi) -> delta P melebihi tekanan hidrostatik kolom fluida tinggi hc
+- delta p > 0.433 ($\gamma$ w - $\gamma$ o) hc
+- parameter water coning: laju air kritis dan waktu breakthrough (tembus)
+  - meliputi:
+    - daerah drainage (penyeapan sumur)
+    - sifat fisik fluida
+    - completion interval
+    - permebilitas vertical &// horizontal
+- persoalan
+  - berapa LAJU ALIR KRITIS / maks agar tidak terjadi water coning?
+  - perkiraan WAKTU TEMBUS AIR (t_bt) bila WATER CONING tidak bisa diatasi
+  - KINERJA RESERVOIR dg water coning
+  
